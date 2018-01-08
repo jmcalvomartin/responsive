@@ -5,7 +5,7 @@ El diseño web receptivo se trata de crear sitios web que se ajustan automática
 <strong>USAMOS PLANTILLAS CSS YA CREADAS PARA DISEÑAR NUESTRA WEB</strong>
 
 <ul>
-<li><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"></li>
+<li>link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"</li>
 <li><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script></li>
 <li><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script></li>
 </ul>
