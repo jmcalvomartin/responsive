@@ -31,3 +31,15 @@ Si no desea usar las 12 columnas individualmente, puede agrupar las columnas par
 <li>Alerts</li>
 </ul>
 
+<strong><h4>LOS BOTONES en Responsive</h4></strong>
+<strong>Para logra los efectos en los botones, Responsive ya tiene estas clases definidas que puedes usar</strong>
+
+<ul>
+<li>btn.btn-default</li>
+<li>btn-primary</li>
+<li>btn-success</li>
+<li>btn-info</li>
+<li>btn-warning</li>
+<li>btn-danger</li>
+<li>btn-link</li>
+</ul>
